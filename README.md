@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Sofit9 - IT Innovation](https://www.softi9.pt/)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **PHP , Java, Js, Python**
+- 💬 Ask me about **PHP, Java, JS, Python**
 
 - ⚡ Fun fact **I am funny**
 
