@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **Docker**
 
+- 🎓 Degree in **computer engineering**
+
 - 💬 Ask me about **PHP, Java, JS, Python**
 
 - ⚡ Fun fact **I am funny**
