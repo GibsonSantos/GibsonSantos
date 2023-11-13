@@ -40,6 +40,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gibsonsantos&show_icons=true&locale=en&layout=compact" alt="gibsonsantos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gibsonsantos&show_icons=true&locale=en" alt="gibsonsantos" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gibsonsantos&" alt="gibsonsantos" /></p>
