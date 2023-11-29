@@ -12,7 +12,7 @@
 
 - 🎓 Degree in **computer engineering**
 
-- 💬 Ask me about **PHP, Java, JS, Python**
+- 💬 Ask me about **Laravel, Java, JS**
 
 - ⚡ Fun fact **I am funny**
 
