@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 🎓 Degree in **computer engineering**
+- 🎓 Graduated in **computer engineering**
 
 - 💬 Ask me about **Laravel, Java, JS**
 
